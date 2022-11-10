@@ -1,0 +1,151 @@
+body {
+    font-family: "Montserrat", sans-serif;
+    background-color: #f5f7fa;
+    color: #000;
+    font-size: 15px;
+    line-height: 1.6;
+    font-style: normal;
+    font-weight: normal;
+  }
+  
+  p,
+  h1,
+  h2,
+  h3,
+  h4,
+  ul{
+    margin: 0;
+    padding: 0;
+  }
+  li{
+    list-style-type: none;
+  }
+  
+  .container{
+    display: flex;
+    flex-direction: row-reverse;
+    width: 1200px; 
+    background: #fff;
+    margin: 40px auto;
+    box-shadow: 6px 6px 20px rgb(0 0 0 / 10%); 
+}
+
+.main-section {
+  padding: 60px 90px 100px 90px;
+}
+.about-me__profession,
+.my-education-item:first-child{
+  margin-bottom: 20px;
+}
+.about-me__name{
+  color:#9c6771;
+   margin-bottom: 20px;
+}
+.about-me__description ,
+.my-projects-section{
+  margin-bottom: 22px;
+}
+
+.my-projects__item:not(:last-child){
+  margin-bottom: 15px;
+}
+
+.my-project-link {
+  font-weight: bold;
+  color:#9c6771;
+}
+
+.my-work-experience-section {
+  padding: 0 110px 0 0;
+  margin-bottom: 50px; 
+}
+
+.my-work-experience-company-block:not(:last-child) {
+  margin-bottom: 25px;
+}
+.my-work-experience-position,
+.my-education {
+  font-weight: bold;
+  font-size: 16px;
+  line-height: 1.25;
+  margin-bottom: 5px;
+}
+.my-work-experience-company {
+  color: #b66878;
+  margin-bottom: 5px;
+}
+.my-work-experience-period {
+  margin-bottom: 10px;
+}
+.my-work-experience-duties {
+  padding-left: 25px;
+}
+.my-work-experience-duty {
+  list-style-type: disc;
+  color: #b66878;
+}
+.my-work-experience-text{
+   color:#000;
+}
+.my-work-experience-divider {
+  font-weight: bold;
+}
+.my-education-section {
+  margin-bottom: 30px;
+}
+.my-education {
+  color:#9c6771;
+}
+.my-education-experience-period {
+  line-height: 1;
+}
+.my-education-program{
+  margin-bottom: 8px;
+}
+.main-content-title {
+  font-weight: bold;
+  font-size: 25px;
+  line-height: 1.08;
+  margin-bottom: 20px;
+}
+
+/* sidebar */
+.sidebar-section {
+  background: #1e2939;
+  width: 370px;
+  padding: 40px 0;
+}
+
+.contact-section,
+.tech-skills-section,
+.soft-skills-section,
+.languages-section,
+.methodology-section {
+  margin: 40px 0 0 40px;
+}
+.sidebar-title {
+  font-weight: bold;
+  font-size: 22px;
+  line-height: 1.23;
+  color: #9c6771;
+  margin-bottom: 10px;
+}
+
+.contact-section-link {
+  color: #fff;
+}
+.contact-section-link:hover {
+  color:#9c6771;
+}
+
+.sidebar-list {
+  padding: 0 0 0 18px;
+}
+.sidebar-item {
+   list-style-type: disc;
+  color: #9c6771;
+}
+
+.sidebar-item-text {
+  color: #fff;
+}
