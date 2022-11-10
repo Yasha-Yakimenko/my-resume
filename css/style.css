@@ -1,27 +1,26 @@
 body {
-    font-family: "Montserrat", sans-serif;
-    background-color: #f5f7fa;
-    color: #000;
-    font-size: 15px;
-    line-height: 1.6;
-    font-style: normal;
-    font-weight: normal;
-  }
-  
-  p,
-  h1,
-  h2,
-  h3,
-  h4,
-  ul{
-    margin: 0;
-    padding: 0;
-  }
-  li{
-    list-style-type: none;
-  }
-  
-  .container{
+  font-family: "Montserrat", sans-serif;
+  background-color: #f5f7fa;
+  color: #000;
+  font-size: 15px;
+  line-height: 1.6;
+  font-style: normal;
+  font-weight: normal;
+}
+
+p,
+h1,
+h2,
+h3,
+h4,
+ul{
+  margin: 0;
+  padding: 0;
+}
+li{
+  list-style-type: none;
+}
+.container{
     display: flex;
     flex-direction: row-reverse;
     width: 1200px; 
