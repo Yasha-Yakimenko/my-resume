@@ -37,7 +37,7 @@ li{
   margin-bottom: 20px;
 }
 .about-me__name{
-  color:#9c6771;
+  color:;
    margin-bottom: 20px;
 }
 .about-me__description ,
@@ -51,7 +51,7 @@ li{
 
 .my-project-link {
   font-weight: bold;
-  color:#9c6771;
+  color:#FF6347;
 }
 
 .my-work-experience-section {
@@ -70,7 +70,7 @@ li{
   margin-bottom: 5px;
 }
 .my-work-experience-company {
-  color: #b66878;
+  color: #FF6347;
   margin-bottom: 5px;
 }
 .my-work-experience-period {
@@ -81,7 +81,7 @@ li{
 }
 .my-work-experience-duty {
   list-style-type: disc;
-  color: #b66878;
+  color: #FF6347;
 }
 .my-work-experience-text{
    color:#000;
@@ -93,7 +93,7 @@ li{
   margin-bottom: 30px;
 }
 .my-education {
-  color:#9c6771;
+  color:#FF6347;
 }
 .my-education-experience-period {
   line-height: 1;
@@ -110,7 +110,7 @@ li{
 
 /* sidebar */
 .sidebar-section {
-  background: #1e2939;
+  background: #2F4F4F;
   width: 370px;
   padding: 40px 0;
 }
@@ -126,7 +126,7 @@ li{
   font-weight: bold;
   font-size: 22px;
   line-height: 1.23;
-  color: #9c6771;
+  color: #FF6347;
   margin-bottom: 10px;
 }
 
@@ -134,7 +134,7 @@ li{
   color: #fff;
 }
 .contact-section-link:hover {
-  color:#9c6771;
+  color:#FF6347;
 }
 
 .sidebar-list {
@@ -142,7 +142,7 @@ li{
 }
 .sidebar-item {
    list-style-type: disc;
-  color: #9c6771;
+  color: #FF6347;
 }
 
 .sidebar-item-text {
