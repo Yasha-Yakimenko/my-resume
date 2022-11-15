@@ -37,7 +37,7 @@ li{
   margin-bottom: 20px;
 }
 .about-me__name{
-  color:;
+  color:#000;
    margin-bottom: 20px;
 }
 .about-me__description ,
@@ -132,6 +132,7 @@ li{
 
 .contact-section-link {
   color: 	#000000;
+  font-style: normal
 }
 .contact-section-link:hover {
   color:#FF6347;
