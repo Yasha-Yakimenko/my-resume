@@ -23,7 +23,7 @@ li{
 .container{
     display: flex;
     flex-direction: row-reverse;
-    width: 1200px; 
+    width: 1280px; 
     background: #fff;
     margin: 40px auto;
     box-shadow: 6px 6px 20px rgb(0 0 0 / 10%); 
@@ -131,7 +131,7 @@ li{
 }
 
 .contact-section-link {
-  color: #fff;
+  color: 	#000000;
 }
 .contact-section-link:hover {
   color:#FF6347;
@@ -146,5 +146,5 @@ li{
 }
 
 .sidebar-item-text {
-  color: #fff;
+  color: 	#000000;
 }
