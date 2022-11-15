@@ -6,6 +6,7 @@ body {
   line-height: 1.6;
   font-style: normal;
   font-weight: normal;
+ 
 }
 
 p,
@@ -16,25 +17,30 @@ h4,
 ul{
   margin: 0;
   padding: 0;
+  
 }
 li{
   list-style-type: none;
 }
 .container{
+  font-style: normal;
+  font-weight: normal;
     display: flex;
     flex-direction: row-reverse;
-    width: 1280px; 
+    width: 1200px; 
     background: #fff;
     margin: 40px auto;
-    box-shadow: 6px 6px 20px rgb(0 0 0 / 10%); 
+    box-shadow: 6px 6px 20px rgb(0 0 0 / 10%);
+   
 }
 
 .main-section {
-  padding: 60px 90px 100px 90px;
+  padding: 100px 90px;
 }
 .about-me__profession,
 .my-education-item:first-child{
   margin-bottom: 20px;
+  
 }
 .about-me__name{
   color:#000;
@@ -42,7 +48,7 @@ li{
 }
 .about-me__description ,
 .my-projects-section{
-  margin-bottom: 22px;
+  margin-bottom: 40px;
 }
 
 .my-projects__item:not(:last-child){
@@ -64,6 +70,8 @@ li{
 }
 .my-work-experience-position,
 .my-education {
+  font-style: normal;
+  font-weight: normal;
   font-weight: bold;
   font-size: 16px;
   line-height: 1.25;
@@ -102,6 +110,8 @@ li{
   margin-bottom: 8px;
 }
 .main-content-title {
+  font-style: normal;
+  font-weight: normal;
   font-weight: bold;
   font-size: 25px;
   line-height: 1.08;
