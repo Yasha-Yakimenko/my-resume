@@ -6,7 +6,6 @@ body {
   line-height: 1.6;
   font-style: normal;
   font-weight: normal;
- 
 }
 
 p,
@@ -17,11 +16,13 @@ h4,
 ul{
   margin: 0;
   padding: 0;
+ 
   
 }
 li{
   list-style-type: none;
 }
+
 .container{
   font-style: normal;
   font-weight: normal;
@@ -29,17 +30,18 @@ li{
     flex-direction: row-reverse;
     width: 1200px; 
     background: #fff;
-    margin: 40px auto;
+    margin: auto;
     box-shadow: 6px 6px 20px rgb(0 0 0 / 10%);
    
 }
 
 .main-section {
-  padding: 100px 90px;
+  padding:  20px 90px 100px 90px;
 }
 .about-me__profession,
 .my-education-item:first-child{
   margin-bottom: 20px;
+  
   
 }
 .about-me__name{
@@ -99,6 +101,8 @@ li{
 }
 .my-education-section {
   margin-bottom: 30px;
+  
+  
 }
 .my-education {
   color:#FF6347;
@@ -108,6 +112,7 @@ li{
 }
 .my-education-program{
   margin-bottom: 8px;
+  
 }
 .main-content-title {
   font-style: normal;
@@ -116,6 +121,7 @@ li{
   font-size: 25px;
   line-height: 1.08;
   margin-bottom: 20px;
+  
 }
 
 /* sidebar */
