@@ -15,9 +15,9 @@ h2,
 h3,
 h4,
 ul{
-  margin: 0;
+  margin: 0 10px 23px 0;
   padding: 0;
-
+ 
  
 }
 
@@ -35,15 +35,15 @@ li{
     background: #fff;
     margin: auto;
     box-shadow: 6px 6px 20px rgb(0 0 0 / 10%);
-   
+    
 }
 
 .main-section {
-  padding:  20px 345px 100px 90px ;
+  padding: 60px 90px 100px 90px;
 }
 .about-me__profession,
 .my-education-item:first-child{
-  margin-bottom: 20;
+  margin-bottom: 20px;
   
   
 }
@@ -132,6 +132,7 @@ li{
   background: #2F4F4F;
   width: 370px;
   padding: 40px 0;
+ 
 }
 
 .contact-section,
