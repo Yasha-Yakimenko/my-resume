@@ -2,10 +2,11 @@ body {
   font-family: "Montserrat", sans-serif;
   background-color: #fff;
   color: #000;
-  font-size: 15px;
+  font-size: 15;
   line-height: 1.6;
-  font-style: normal;
+  font-style: normal; 
   font-weight: normal;
+  
 }
 
 p,
@@ -16,17 +17,19 @@ h4,
 ul{
   margin: 0;
   padding: 0;
+
  
-  
 }
+
 li{
   list-style-type: none;
+  
 }
 
 .container{
   font-style: normal;
   font-weight: normal;
-    display: flex;
+  display: flex;
     flex-direction: row-reverse;
     width: 1200px; 
     background: #fff;
@@ -36,11 +39,11 @@ li{
 }
 
 .main-section {
-  padding:  20px 90px 100px 90px;
+  padding:  20px 345px 100px 90px ;
 }
 .about-me__profession,
 .my-education-item:first-child{
-  margin-bottom: 20px;
+  margin-bottom: 20;
   
   
 }
@@ -54,7 +57,7 @@ li{
 }
 
 .my-projects__item:not(:last-child){
-  margin-bottom: 15px;
+  margin-bottom: 15;
 }
 
 .my-project-link {
@@ -100,7 +103,7 @@ li{
   font-weight: bold;
 }
 .my-education-section {
-  margin-bottom: 30px;
+  margin-bottom: 30;
   
   
 }
@@ -111,8 +114,8 @@ li{
   line-height: 1;
 }
 .my-education-program{
-  margin-bottom: 8px;
-  
+  margin-bottom: 8;
+
 }
 .main-content-title {
   font-style: normal;
