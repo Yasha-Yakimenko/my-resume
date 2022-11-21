@@ -6,7 +6,6 @@ body {
   line-height: 1.6;
   font-style: normal; 
   font-weight: normal;
-  
 }
 
 p,
@@ -15,10 +14,10 @@ h2,
 h3,
 h4,
 ul{
-  margin: 0 10px 23px 0;
+  margin: 0 ;
   padding: 0;
  
- 
+
 }
 
 li{
@@ -35,11 +34,11 @@ li{
     background: #fff;
     margin: auto;
     box-shadow: 6px 6px 20px rgb(0 0 0 / 10%);
-    
+  
 }
 
 .main-section {
-  padding: 60px 90px 100px 90px;
+  padding: 50px 250px 80px 90px;
 }
 .about-me__profession,
 .my-education-item:first-child{
@@ -140,7 +139,7 @@ li{
 .soft-skills-section,
 .languages-section,
 .methodology-section {
-  margin: 80px 0 0 40px;
+  margin: 60px 0 0 40px;
 }
 .sidebar-title {
   font-weight: bold;
